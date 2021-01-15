@@ -1,0 +1,21 @@
+body {
+    font-size: 17px;
+    font-family: "Microsoft JhengHei", Arial, sans-serif;
+    background-color: #dddddd;
+}
+
+p {
+    line-height: 2em;
+    border-bottom: 1px solid #888;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container>.title {
+    margin: 20px 0 10px 0;
+    font-size: 1.3em;
+    font-weight: bold;
+}
